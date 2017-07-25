@@ -5,8 +5,14 @@
 #nav-list {
   font-size: 1.5em;
   line-height: 1;
-  color: #9d9d9d;  
+  color: #9d9d9d;
 }
 #nav-list hr {
   margin: 7.5px 0;
+}
+
+.tile {
+  background: #9d9d9d;
+  padding: 5px;
+  margin-bottom: 20px;
 }
