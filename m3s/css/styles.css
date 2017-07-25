@@ -1,0 +1,12 @@
+.navbar-brand h1 {
+  margin: -9px;
+}
+
+#nav-list {
+  font-size: 1.5em;
+  line-height: 1;
+  color: #9d9d9d;  
+}
+#nav-list hr {
+  margin: 7.5px 0;
+}
